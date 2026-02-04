@@ -97,3 +97,4 @@ For research collaboration, licensing inquiries, or infrastructure integration d
 
 Sean Honan
 LucidLock™
+support@lucidlock.solutions
